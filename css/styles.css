@@ -17,3 +17,17 @@
 img{
   width:30%;
 }
+
+#panel-head{
+  margin-top: 10px;
+  padding:5px;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+#panel{
+padding:50px;
+background-color: black;
+color:white;
+display: none;
+}
